@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.O Strict//EN" "http://www.w3.org/TR/xhtml/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>Week1_Program-3</title>
+</head>
+<body bgcolor="pink" leftmargin="100" ><font face="Times New Roman, serif">
+	<h1 align="center"><u>CURRICULUM VITAE</u></h1>
+	<pre>R.Rajendra                                                Contact:8977573717
+DUHACHERLLA                                               Email:rajendra@gmail.com
+NALLGERLLA(HD)</pre>
+<p>
+	<h4><u>Career Objective:</u></h4>
+	Seeking a challenging position, utilizing my abilities developed through my education with an opportunity for career growth based on my merit and promotes the growth of the organisation.
+
+</p>
+<p>
+	<h4><u>Educational Qualification:</u></h4>
+<table border="2" bordercolor="white" cellpadding="3" cellspacing="1">
+	<tr>
+		<th>Education</th>
+		<th>University</th>
+		<th>Percentage</th>
+		<th>Passout</th>
+	</tr>
+	<tr>
+		<td>SSC</td>
+		<td>Board of secondary education</td>
+		<td>65%</td>
+		<td>2002</td>
+	</tr>
+	<tr>
+		<td>Intermediate</td>
+		<td>Board of Intermediate</td>
+		<td>70%</td>
+		<td>2004</td>
+	</tr>
+	<tr>
+		<td>Degree</td>
+		<td>Kakatiya University</td>
+		<td>63%</td>
+		<td>2007</td>
+	</tr>
+	<tr>
+		<td>P.G</td>
+		<td>JNTU University</td>
+		<td>79%</td>
+		<td>2010</td>
+	</tr>
+</table>
+</p>
+<p>
+	<h4><u>IT Related Skills:</u></h4>
+	<table border="2" bordercolor="white" cellpadding="3" cellspacing="1">
+		<tr>
+			<th>Languages</th>
+			<td>c,c++,Java</td>
+		</tr>
+		<tr>
+			<th>Web Technology</th>
+			<td>Jsp,HTML</td>
+		</tr>
+		<tr>
+			<th>RDBMS</th>
+			<td>MS Access,Oracle</td>
+		</tr>
+		<tr>
+			<th>Operating System</th>
+			<td>Windows XP,2000,2003</td>
+		</tr>
+	</table>
+</p>
+<p>
+	<h4><u>Strengths:</u></h4>
+	<ul>
+		<li>Excellent communication skills and vocabulary</li>
+		<li>Pleasing personality with clean habits</li>
+	</ul>
+</p>
+<footer align='right'><b>[R.Rajendra]</b></footer>
+</font>
+</body>
+</html>
